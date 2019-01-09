@@ -1,2 +1,1 @@
-# valaxy
-ansible project
+# DevOpsDemos
